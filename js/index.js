@@ -58,5 +58,5 @@ let output1;
 //"My name is Your-first-name Your-last-name. You can contact me at your-email@mail.com.";
 output1=`My name is ${first_name} ${last_name}. You can contact me at ${email}.`;
 
-//Print the output in JavaScript console
-console.log(output1);
+//Print the output in alert popup box
+alert(output1);
